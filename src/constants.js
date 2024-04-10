@@ -2,7 +2,7 @@ export const scaleFactor = 4;
 
 export const dialogueData = {
     pc: `This is my PC. I work mostly in JAVA/TypeScript these days.
-    I've made a couple of games in that language. I also like Lua and Typescript. Anyway regardless of the language, I just like programming. And I use Arch btw 😎.
+    But I also enjoy developing video games and I like using Lua and JS. I also like Rust. Anyway regardless of the language, I just like programming. And I use Arch btw 😎.
     Here is my <a href="https://github.com/AmigosKazz" target="_blank">Github</a>!`,
     "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
     "sofa-table": `That's my sofa. I like to relax here and watch YouTube videos or watch a twich videos with ThePrimeagen.`,
